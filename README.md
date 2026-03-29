@@ -107,5 +107,5 @@ It provides insights into customers, accounts, transactions, loans, and KYC stat
 
 ## 👤 Author
 
-Your Name
-(Add your LinkedIn/GitHub link here)
+Prathmesh Mali
+[(Add your LinkedIn/GitHub link here)](https://www.linkedin.com/in/prathmesh-mali-440619298?utm_source=share_via&utm_content=profile&utm_medium=member_android)
